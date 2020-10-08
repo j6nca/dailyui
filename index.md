@@ -4,3 +4,4 @@
 ![Daily UI 003 - landing page](./003.png)
 ![Daily UI 004 - calculator](./004.gif)
 ![Daily UI 005 - App Icon](./005.png)
+![Daily UI 006 - Profile Page](./006.png)
